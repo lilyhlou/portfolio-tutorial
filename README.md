@@ -6,3 +6,4 @@ Bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/ \n
 W3Schools (for HTML/CSS and additional tutorials): https://www.w3schools.com/ \n
 HEXCode Finder: https://htmlcolorcodes.com/ \n
 Font Awesome: https://fontawesome.com/ \n 
+Github Pages: https://pages.github.com/
