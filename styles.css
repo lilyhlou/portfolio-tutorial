@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Mono:wght@500&display=swap');
+html {
+    overflow-x: hidden; 
+    overflow-y: scroll; 
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+}
+h2 {
+    font-style: oblique;
+
+}
+
+.header {
+    height: 100px;
+}
+
+#nav {
+    text-align: right;
+}
+
+#nav > a {
+    color: black;
+    background: linear-gradient(to top, yellow 50%, transparent 50%);
+
+}
+#nav > a:hover {
+    text-decoration: none;
+    background-color: yellow;
+  }
+
+.social {
+    text-align: center;
+    color: grey;
+    font-size: 35px;
+}
+.social > a {
+    color: grey;
+}
+.social > a:hover {
+    color: lightgray;
+}
+
+li > a:hover {
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+}
+li > a {
+    color: black;
+    background: linear-gradient(to top, yellow 50%, transparent 50%);
+
+}
+p > a:hover {
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+}
+p > a {
+    color: black;
+    background: linear-gradient(to top, yellow 50%, transparent 50%);
+}
+
+h4 {
+    font-family: 'Roboto Mono', monospace;
+    color: #292929;
+}
+small > a {
+    color: black;
+    background: linear-gradient(to top, yellow 50%, transparent 50%);
+}
+small > a:hover {
+    color: black;
+}
+
+h2 > a {
+    color: black;
+    background: linear-gradient(to top, yellow 50%, transparent 50%);
+
+}
+h2 > a:hover {
+    text-decoration: none;
+    color: black;
+}
