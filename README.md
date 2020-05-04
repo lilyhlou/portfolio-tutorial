@@ -11,7 +11,7 @@ Useful Links
 Starter HTML template: https://github.com/lilyhlou/portfolio-tutorial/blob/master/starthere.html  
 Visual Studio Code: https://code.visualstudio.com/  
 
-**[HTML resources] **   
+**[HTML resources]**   
 Bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/  
 W3Schools (for HTML/CSS and additional tutorials): https://www.w3schools.com/   
 
