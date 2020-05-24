@@ -4,6 +4,9 @@
     
 Looking for jobs or want to just find a place to show off your cool projects? Portfolios can be perfect for that. That's why we're giving you a quick one-hour tutorial today on how to build one from scratch. 
 
+[<img src="https://img.youtube.com/vi/KKjCCCasyE8/maxresdefault.jpg" width="50%">](https://youtu.be/KKjCCCasyE8)  
+*Click for video preview*
+
 
 Useful Links  
 
